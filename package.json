@@ -17,5 +17,9 @@
         "path": "./themes/Nero Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SANTEOWEN/Nero-Dark"
   }
 }
