@@ -2,6 +2,7 @@
   "name": "nero-dark",
   "displayName": "Nero Dark",
   "description": "Dark Theme specifically for Nero",
+  "publisher": "OWNSNT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
